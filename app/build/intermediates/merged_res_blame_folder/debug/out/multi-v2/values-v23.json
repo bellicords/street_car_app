@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.streetcar.app-mergeDebugResources-47:/values-v23/values-v23.xml",
+            "outputFile": "com.example.streetcar.app-mergeDebugResources-33:/values-v23/values-v23.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\isabe\\.gradle\\caches\\transforms-3\\1853b255730767b30ea40739cc58aa13\\transformed\\appcompat-1.5.1\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\tdcs0\\.gradle\\caches\\transforms-3\\7587ab50b737894555b8d05c94504219\\transformed\\appcompat-1.5.1\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,20,34,35,36,39,43,44,45,46",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -15,7 +15,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\isabe\\.gradle\\caches\\transforms-3\\36a0e2189df46a5974957fc9cce61215\\transformed\\material-1.7.0\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\tdcs0\\.gradle\\caches\\transforms-3\\c0118316588a814edfcf97a014d7d543\\transformed\\material-1.7.0\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2,5,8,13,17,20,23,26,31,34,38",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
@@ -25,35 +25,16 @@
                         "endOffsets": "266,476,796,1033,1240,1447,1650,1982,2184,2449,2722"
                     },
                     "to": {
-                        "startLines": "59,62,65,70,74,77,80,83,88,91,95",
+                        "startLines": "53,56,59,64,68,71,74,77,82,85,89",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "3705,3921,4131,4451,4688,4895,5102,5305,5637,5839,6104",
-                        "endLines": "61,64,69,73,76,79,82,87,90,94,98",
+                        "startOffsets": "3382,3598,3808,4128,4365,4572,4779,4982,5314,5516,5781",
+                        "endLines": "55,58,63,67,70,73,76,81,84,88,92",
                         "endColumns": "10,10,10,10,10,10,10,10,10,10,10",
-                        "endOffsets": "3916,4126,4446,4683,4890,5097,5300,5632,5834,6099,6372"
+                        "endOffsets": "3593,3803,4123,4360,4567,4774,4977,5309,5511,5776,6049"
                     }
                 },
                 {
-                    "source": "C:\\Users\\isabe\\OneDrive\\Documentos\\fatec sp\\5 semestre\\lab ies\\StreetCar\\app\\src\\main\\res\\values-v23\\themes.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "64",
-                        "endLines": "7",
-                        "endColumns": "12",
-                        "endOffsets": "432"
-                    },
-                    "to": {
-                        "startLines": "53",
-                        "startColumns": "4",
-                        "startOffsets": "3382",
-                        "endLines": "58",
-                        "endColumns": "12",
-                        "endOffsets": "3700"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\isabe\\.gradle\\caches\\transforms-3\\a56ce8993edbe42375f52c110232d15a\\transformed\\cardview-1.0.0\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\tdcs0\\.gradle\\caches\\transforms-3\\e40167b83188e06e0ff736546b5c3b9a\\transformed\\cardview-1.0.0\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

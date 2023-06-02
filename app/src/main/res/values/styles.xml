@@ -1,0 +1,6 @@
+<resources>
+    <style name="LoginTextInputLayoutStyle" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="boxStrokeColor">@color/amarelo</item>
+        <item name="boxStrokeWidth">2dp</item>
+    </style>
+</resources>

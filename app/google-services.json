@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "644766364154",
+    "firebase_url": "https://streetcar-366c0-default-rtdb.firebaseio.com",
+    "project_id": "streetcar-366c0",
+    "storage_bucket": "streetcar-366c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644766364154:android:56abc8aa7323965339f443",
+        "android_client_info": {
+          "package_name": "com.example.streetcar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "644766364154-pgfnstpgp2f7sfu7n0f0cs3skrrahq57.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.streetcar",
+            "certificate_hash": "eb7d799ee606ae414b613c8cd0831e0e2f85b36a"
+          }
+        },
+        {
+          "client_id": "644766364154-gf2bujk1ibhj3vsuke7gd9i0sl9agaje.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-kOEVXcsCyWZkFlBc1P6FOI1tiszjmo0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "644766364154-gf2bujk1ibhj3vsuke7gd9i0sl9agaje.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

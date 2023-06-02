@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.streetcar.app-mergeDebugResources-47:/values-w360dp-port-v13/values-w360dp-port-v13.xml",
+            "outputFile": "com.example.streetcar.app-mergeDebugResources-33:/values-w360dp-port-v13/values-w360dp-port-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\isabe\\.gradle\\caches\\transforms-3\\36a0e2189df46a5974957fc9cce61215\\transformed\\material-1.7.0\\res\\values-w360dp-port-v13\\values-w360dp-port-v13.xml",
+                    "source": "C:\\Users\\tdcs0\\.gradle\\caches\\transforms-3\\c0118316588a814edfcf97a014d7d543\\transformed\\material-1.7.0\\res\\values-w360dp-port-v13\\values-w360dp-port-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
