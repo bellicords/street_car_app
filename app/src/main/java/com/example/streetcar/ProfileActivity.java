@@ -7,7 +7,6 @@ import android.view.WindowManager;
 import android.widget.ImageButton;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
-import android.widget.Toast;
 
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
@@ -70,7 +69,8 @@ public class ProfileActivity extends AppCompatActivity {
         btnMeusServ.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                showToast("Serviço Indisponível");
+                Intent intent = new Intent(ProfileActivity.this, ServiceActivity.class);
+                startActivity(intent);
             }
         });
     }
@@ -103,9 +103,5 @@ public class ProfileActivity extends AppCompatActivity {
         txtEmailPerfil.getEditText().setText(email_user);
         txtNumeroPerfil.getEditText().setText(telefone_user);
         txtUsuarioPerfil.getEditText().setText(usuario_user);
-    }
-
-    private void showToast(String mensagem){
-        Toast.makeText(this, mensagem, Toast.LENGTH_SHORT).show();
     }
 }

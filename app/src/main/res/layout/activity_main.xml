@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/black">
@@ -47,31 +48,34 @@
                 android:layout_gravity="center_vertical|center_horizontal"
                 android:gravity="center"
                 android:orientation="vertical">
+
                 <ImageView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:src="@drawable/ic_car"/>
+                    android:layout_width="42dp"
+                    android:layout_height="41dp"
+                    android:src="@drawable/ic_popup"
+                    tools:srcCompat="@mipmap/ic_popup" />
 
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Veículos"
+                    android:text="Notificações"
                     android:fontFamily="@font/josefin_sans_bold"
                     android:textColor="@color/black"
                     android:textSize="20sp"
                     android:textStyle="bold" />
             </LinearLayout>
         </androidx.cardview.widget.CardView>
+
         <androidx.cardview.widget.CardView
             android:id="@+id/btnAgendar"
-            android:backgroundTint="@color/amarelo"
-            android:layout_width="wrap_content"
+            android:layout_width="141dp"
             android:layout_height="wrap_content"
-            android:layout_gravity="fill"
-            android:layout_columnWeight="1"
-            android:layout_rowWeight="1"
             android:layout_row="0"
+            android:layout_rowWeight="1"
             android:layout_column="1"
+            android:layout_columnWeight="1"
+            android:layout_gravity="fill"
+            android:backgroundTint="@color/amarelo"
             app:cardCornerRadius="10dp"
             app:cardElevation="8dp"
             app:cardUseCompatPadding="true">
@@ -82,20 +86,23 @@
                 android:layout_gravity="center_vertical|center_horizontal"
                 android:gravity="center"
                 android:orientation="vertical">
+
                 <ImageView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:src="@drawable/ic_calendar"/>
+                    android:src="@drawable/ic_calendar" />
+
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Agendar"
                     android:fontFamily="@font/josefin_sans_bold"
+                    android:text="Agendar"
                     android:textColor="@color/black"
                     android:textSize="20sp"
-                    android:textStyle="bold"/>
+                    android:textStyle="bold" />
             </LinearLayout>
         </androidx.cardview.widget.CardView>
+
         <androidx.cardview.widget.CardView
             android:id="@+id/btnPerfil"
             android:backgroundTint="@color/amarelo"

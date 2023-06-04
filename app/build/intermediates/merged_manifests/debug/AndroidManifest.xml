@@ -40,6 +40,8 @@
         </activity>
         <activity android:name="com.example.streetcar.SenhaActivity" />
         <activity android:name="com.example.streetcar.MainActivity" />
+        <activity android:name="com.example.streetcar.HomeActivity" />
+        <activity android:name="com.example.streetcar.ServiceActivity" />
         <activity android:name="com.example.streetcar.LoginActivity" />
         <activity android:name="com.example.streetcar.ProfileActivity" />
         <activity android:name="com.example.streetcar.RegisterActivity" />

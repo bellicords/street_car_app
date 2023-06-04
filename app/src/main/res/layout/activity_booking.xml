@@ -7,7 +7,7 @@
     tools:context=".RegisterActivity"
     android:orientation="vertical"
     android:background="@color/black"
-    android:padding="20dp">
+    android:padding="19dp">
 
     <ImageButton
         android:id="@+id/btnBackA"
@@ -34,125 +34,134 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Informe os dados para poder Agendar"
-        android:textSize="19sp"
+        android:fontFamily="@font/josefin_sans_bold"
+        android:text="Informe os dados do agendamento:"
         android:textColor="@color/white"
-        android:fontFamily="@font/josefin_sans_bold"/>
+        android:textSize="19sp" />
+
     <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:orientation="vertical"
+        android:layout_width="360dp"
+        android:layout_height="336dp"
         android:layout_marginTop="20dp"
-        android:layout_marginBottom="20dp">
+        android:layout_marginBottom="20dp"
+        android:orientation="vertical">
+
         <com.google.android.material.textfield.TextInputLayout
             android:id="@+id/btModeloCarro"
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:layout_marginBottom="4dp"
             android:hint="Modelo do Carro"
             android:textColorHint="@color/amarelo"
-            app:boxStrokeColor="@color/amarelo"
-            android:layout_marginBottom="5dp"
-            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+            app:boxStrokeColor="@color/amarelo">
 
             <EditText
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
+                android:layout_height="45dp"
                 android:fontFamily="@font/josefin_sans_semibold"
                 android:inputType="text"
                 android:textColor="@color/white" />
         </com.google.android.material.textfield.TextInputLayout>
+
         <com.google.android.material.textfield.TextInputLayout
             android:id="@+id/btnMarca"
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:layout_marginBottom="4dp"
             android:hint="Marca"
-            app:counterMaxLength="15"
-            app:counterTextColor="@color/amarelo"
             android:textColorHint="@color/amarelo"
             app:boxStrokeColor="@color/amarelo"
-            android:layout_marginBottom="5dp"
-            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+            app:counterMaxLength="15"
+            app:counterTextColor="@color/amarelo">
 
             <EditText
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
+                android:layout_height="42dp"
                 android:fontFamily="@font/josefin_sans_semibold"
                 android:inputType="text"
                 android:textColor="@color/white" />
         </com.google.android.material.textfield.TextInputLayout>
+
         <com.google.android.material.textfield.TextInputLayout
             android:id="@+id/btnPlaca"
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:layout_marginBottom="4dp"
             android:hint="Placa"
             android:textColorHint="@color/amarelo"
-            app:boxStrokeColor="@color/amarelo"
-            android:layout_marginBottom="5dp"
-            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+            app:boxStrokeColor="@color/amarelo">
 
             <EditText
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:maxLength="7"
+                android:layout_height="50dp"
                 android:fontFamily="@font/josefin_sans_semibold"
                 android:inputType="textEmailAddress"
+                android:maxLength="5"
                 android:textColor="@color/white" />
         </com.google.android.material.textfield.TextInputLayout>
+
         <com.google.android.material.textfield.TextInputLayout
             android:id="@+id/btnAno"
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
             android:hint="Ano"
             android:textColorHint="@color/amarelo"
-            app:boxStrokeColor="@color/amarelo"
-            android:layout_marginBottom="5dp"
-            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+            app:boxStrokeColor="@color/amarelo">
 
             <EditText
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
+                android:layout_height="41dp"
                 android:fontFamily="@font/josefin_sans_semibold"
                 android:inputType="number"
                 android:maxLength="4"
                 android:textColor="@color/white" />
         </com.google.android.material.textfield.TextInputLayout>
+
         <com.google.android.material.textfield.TextInputLayout
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
             android:hint="Data da Vistoria"
             android:textColorHint="@color/amarelo"
             app:boxStrokeColor="@color/amarelo"
-            app:passwordToggleTint="@color/amarelo"
-            android:layout_marginBottom="5dp"
-            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+            app:passwordToggleTint="@color/amarelo">
+
             <EditText
                 android:id="@+id/btnData"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
+                android:layout_height="46dp"
                 android:ems="10"
-                android:textColor="@color/white"
                 android:inputType="textPersonName"
+                android:textColor="@color/white"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toBottomOf="@+id/btnAno" />
 
         </com.google.android.material.textfield.TextInputLayout>
+
         <com.google.android.material.textfield.TextInputLayout
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
             android:hint="Horário da Vistoria"
             android:textColorHint="@color/amarelo"
             app:boxStrokeColor="@color/amarelo"
-            app:passwordToggleTint="@color/amarelo"
-            android:layout_marginBottom="5dp"
-            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+            app:passwordToggleTint="@color/amarelo">
+
             <EditText
                 android:id="@+id/btnHora"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:ems="10"
-                android:textColor="@color/white"
                 android:inputType="textPersonName"
+                android:textColor="@color/white"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toBottomOf="@+id/btnData" />
@@ -162,11 +171,11 @@
 
     <androidx.appcompat.widget.AppCompatButton
         android:id="@+id/btnAgendar"
-        android:layout_width="match_parent"
+        android:layout_width="362dp"
         android:layout_height="wrap_content"
         android:background="@color/amarelo"
         android:text="AGENDAR"
         android:textColor="@color/black"
-        android:textSize="18sp"/>
+        android:textSize="18sp" />
 
 </LinearLayout>

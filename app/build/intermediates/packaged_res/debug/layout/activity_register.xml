@@ -27,94 +27,100 @@
         android:textSize="19sp"
         android:textColor="@color/white"
         android:fontFamily="@font/josefin_sans_bold"/>
+
     <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:orientation="vertical"
+        android:layout_width="359dp"
+        android:layout_height="291dp"
         android:layout_marginTop="20dp"
-        android:layout_marginBottom="20dp">
+        android:layout_marginBottom="20dp"
+        android:orientation="vertical">
+
         <com.google.android.material.textfield.TextInputLayout
             android:id="@+id/btnNome"
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
             android:hint="Nome Completo"
             android:textColorHint="@color/amarelo"
-            app:boxStrokeColor="@color/amarelo"
-            android:layout_marginBottom="5dp"
-            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+            app:boxStrokeColor="@color/amarelo">
 
             <EditText
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
+                android:layout_height="50dp"
                 android:fontFamily="@font/josefin_sans_semibold"
                 android:inputType="text"
                 android:textColor="@color/white" />
         </com.google.android.material.textfield.TextInputLayout>
+
         <com.google.android.material.textfield.TextInputLayout
             android:id="@+id/btnUserName"
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
             android:hint="Nome de Usuário"
-            app:counterMaxLength="15"
-            app:counterTextColor="@color/amarelo"
             android:textColorHint="@color/amarelo"
             app:boxStrokeColor="@color/amarelo"
-            android:layout_marginBottom="5dp"
-            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+            app:counterMaxLength="15"
+            app:counterTextColor="@color/amarelo">
 
             <EditText
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
+                android:layout_height="47dp"
                 android:fontFamily="@font/josefin_sans_semibold"
                 android:inputType="text"
                 android:textColor="@color/white" />
         </com.google.android.material.textfield.TextInputLayout>
+
         <com.google.android.material.textfield.TextInputLayout
             android:id="@+id/btnEmailCad"
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
             android:hint="E-mail"
             android:textColorHint="@color/amarelo"
-            app:boxStrokeColor="@color/amarelo"
-            android:layout_marginBottom="5dp"
-            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+            app:boxStrokeColor="@color/amarelo">
 
             <EditText
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
+                android:layout_height="48dp"
                 android:fontFamily="@font/josefin_sans_semibold"
                 android:inputType="textEmailAddress"
                 android:textColor="@color/white" />
         </com.google.android.material.textfield.TextInputLayout>
+
         <com.google.android.material.textfield.TextInputLayout
             android:id="@+id/btnNumero"
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
             android:hint="Telefone"
             android:textColorHint="@color/amarelo"
-            app:boxStrokeColor="@color/amarelo"
-            android:layout_marginBottom="5dp"
-            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+            app:boxStrokeColor="@color/amarelo">
 
             <EditText
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
+                android:layout_height="47dp"
                 android:fontFamily="@font/josefin_sans_semibold"
                 android:inputType="number"
                 android:maxLength="11"
                 android:textColor="@color/white" />
         </com.google.android.material.textfield.TextInputLayout>
+
         <com.google.android.material.textfield.TextInputLayout
             android:id="@+id/btnSenhaCad"
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
             android:hint="Senha"
             android:textColorHint="@color/amarelo"
             app:boxStrokeColor="@color/amarelo"
             app:passwordToggleEnabled="true"
-            app:passwordToggleTint="@color/amarelo"
-            android:layout_marginBottom="5dp"
-            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+            app:passwordToggleTint="@color/amarelo">
 
             <EditText
                 android:layout_width="match_parent"
@@ -127,21 +133,21 @@
 
     <androidx.appcompat.widget.AppCompatButton
         android:id="@+id/btnCadastrar"
-        android:layout_width="match_parent"
+        android:layout_width="361dp"
         android:layout_height="wrap_content"
         android:background="@color/amarelo"
         android:text="CADASTRAR"
         android:textColor="@color/black"
-        android:textSize="18sp"/>
+        android:textSize="18sp" />
 
     <Button
         android:id="@+id/btnLoginR"
-        android:layout_width="match_parent"
+        android:layout_width="361dp"
         android:layout_height="wrap_content"
-        android:background="#00000000"
-        android:text="JÁ POSSUI CONTA? FAÇA SEU LOGIN"
-        android:textColor="@color/white"
         android:layout_marginTop="10dp"
         android:layout_marginBottom="10dp"
-        android:fontFamily="@font/josefin_sans_bold"/>
+        android:background="#00000000"
+        android:fontFamily="@font/josefin_sans_bold"
+        android:text="JÁ POSSUI CONTA? FAÇA SEU LOGIN"
+        android:textColor="@color/white" />
 </LinearLayout>

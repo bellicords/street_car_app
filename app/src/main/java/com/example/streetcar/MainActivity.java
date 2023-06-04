@@ -36,7 +36,8 @@ public class MainActivity extends AppCompatActivity {
         btnHome.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                showToast("Serviço Indisponível");
+                Intent intent = new Intent(MainActivity.this, HomeActivity.class);
+                startActivity(intent);
             }
         });
         btnAgendar.setOnClickListener(new View.OnClickListener() {
@@ -56,7 +57,8 @@ public class MainActivity extends AppCompatActivity {
         btnServicos.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                showToast("Serviço Indisponível");
+                Intent intent = new Intent(MainActivity.this, ServiceActivity.class);
+                startActivity(intent);
             }
         });
         btnConfig.setOnClickListener(new View.OnClickListener() {

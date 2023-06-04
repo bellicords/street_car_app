@@ -1,38 +1,38 @@
-com.example.streetcar.app-constraintlayout-2.1.4-0 C:\Users\tdcs0\.gradle\caches\transforms-3\008bb01919eacaad75cee55b00cad0d4\transformed\constraintlayout-2.1.4\res
-com.example.streetcar.app-startup-runtime-1.1.1-1 C:\Users\tdcs0\.gradle\caches\transforms-3\014198dfbb4a3011994ec8db21a63566\transformed\startup-runtime-1.1.1\res
-com.example.streetcar.app-viewpager2-1.0.0-2 C:\Users\tdcs0\.gradle\caches\transforms-3\024b3f5af1923bfca4c5a1de67e3bfc6\transformed\viewpager2-1.0.0\res
-com.example.streetcar.app-activity-1.5.1-3 C:\Users\tdcs0\.gradle\caches\transforms-3\03edabb9f0d87568787dcea93645f1be\transformed\activity-1.5.1\res
-com.example.streetcar.app-emoji2-1.2.0-4 C:\Users\tdcs0\.gradle\caches\transforms-3\09e72a7a00482a7180d05ac481325792\transformed\emoji2-1.2.0\res
-com.example.streetcar.app-savedstate-1.2.0-5 C:\Users\tdcs0\.gradle\caches\transforms-3\0e1a2d2752ee053eebb4454ad9e46259\transformed\savedstate-1.2.0\res
-com.example.streetcar.app-core-1.5.0-6 C:\Users\tdcs0\.gradle\caches\transforms-3\0fc18612ea446508f1ddf5cc99fa8f51\transformed\core-1.5.0\res
-com.example.streetcar.app-core-1.8.0-7 C:\Users\tdcs0\.gradle\caches\transforms-3\10e0919222f9e94c80fe3d248a16b059\transformed\core-1.8.0\res
-com.example.streetcar.app-coordinatorlayout-1.1.0-8 C:\Users\tdcs0\.gradle\caches\transforms-3\12b19370df78f3fdc4f269a3e0b9ae3d\transformed\coordinatorlayout-1.1.0\res
-com.example.streetcar.app-browser-1.4.0-9 C:\Users\tdcs0\.gradle\caches\transforms-3\20bb3c03706d0120b1812fbd60d1a54a\transformed\browser-1.4.0\res
-com.example.streetcar.app-transition-1.2.0-10 C:\Users\tdcs0\.gradle\caches\transforms-3\24c25723556697de7fb7c87546dddd00\transformed\transition-1.2.0\res
-com.example.streetcar.app-appcompat-resources-1.5.1-11 C:\Users\tdcs0\.gradle\caches\transforms-3\4fadc8a6c1c6a2e35f7de56ce65a48d8\transformed\appcompat-resources-1.5.1\res
-com.example.streetcar.app-lifecycle-viewmodel-savedstate-2.5.1-12 C:\Users\tdcs0\.gradle\caches\transforms-3\5a3670396761f20753f4d7da6b4740ee\transformed\lifecycle-viewmodel-savedstate-2.5.1\res
-com.example.streetcar.app-firebase-common-20.2.0-13 C:\Users\tdcs0\.gradle\caches\transforms-3\6815efbfbf692d3016d55c159b047e5a\transformed\firebase-common-20.2.0\res
-com.example.streetcar.app-appcompat-1.5.1-14 C:\Users\tdcs0\.gradle\caches\transforms-3\7587ab50b737894555b8d05c94504219\transformed\appcompat-1.5.1\res
-com.example.streetcar.app-annotation-experimental-1.1.0-15 C:\Users\tdcs0\.gradle\caches\transforms-3\78c00a931992e83f7d259cc4b39dbe94\transformed\annotation-experimental-1.1.0\res
-com.example.streetcar.app-lifecycle-process-2.4.1-16 C:\Users\tdcs0\.gradle\caches\transforms-3\7f16dd1641fc2e683362bc61a2a4a413\transformed\lifecycle-process-2.4.1\res
-com.example.streetcar.app-recyclerview-1.1.0-17 C:\Users\tdcs0\.gradle\caches\transforms-3\8193879396ddc9bbe68686d4fd364311\transformed\recyclerview-1.1.0\res
-com.example.streetcar.app-play-services-basement-18.1.0-18 C:\Users\tdcs0\.gradle\caches\transforms-3\87427f83207bfca84103e66f2e973571\transformed\play-services-basement-18.1.0\res
-com.example.streetcar.app-play-services-base-18.0.1-19 C:\Users\tdcs0\.gradle\caches\transforms-3\9ac16106f6ef8e49d2e561fc6e384635\transformed\play-services-base-18.0.1\res
-com.example.streetcar.app-emoji2-views-helper-1.2.0-20 C:\Users\tdcs0\.gradle\caches\transforms-3\a39e35ec7a8462071320ece8d0608377\transformed\emoji2-views-helper-1.2.0\res
-com.example.streetcar.app-fragment-1.3.6-21 C:\Users\tdcs0\.gradle\caches\transforms-3\b0e48fdcca110c933cd1359c72494a30\transformed\fragment-1.3.6\res
-com.example.streetcar.app-lifecycle-runtime-2.5.1-22 C:\Users\tdcs0\.gradle\caches\transforms-3\b2cc313048f59b1e6f27ae8f423a52c8\transformed\lifecycle-runtime-2.5.1\res
-com.example.streetcar.app-material-1.7.0-23 C:\Users\tdcs0\.gradle\caches\transforms-3\c0118316588a814edfcf97a014d7d543\transformed\material-1.7.0\res
-com.example.streetcar.app-core-ktx-1.8.0-24 C:\Users\tdcs0\.gradle\caches\transforms-3\c6afd9d753b16671ff5439010b365d50\transformed\core-ktx-1.8.0\res
-com.example.streetcar.app-lifecycle-livedata-core-2.5.1-25 C:\Users\tdcs0\.gradle\caches\transforms-3\d7639b31095090897e233295d0ce0238\transformed\lifecycle-livedata-core-2.5.1\res
-com.example.streetcar.app-lifecycle-viewmodel-2.5.1-26 C:\Users\tdcs0\.gradle\caches\transforms-3\dbcac4723b4102f9ab48ce177e2bbfce\transformed\lifecycle-viewmodel-2.5.1\res
-com.example.streetcar.app-cardview-1.0.0-27 C:\Users\tdcs0\.gradle\caches\transforms-3\e40167b83188e06e0ff736546b5c3b9a\transformed\cardview-1.0.0\res
-com.example.streetcar.app-drawerlayout-1.1.1-28 C:\Users\tdcs0\.gradle\caches\transforms-3\f4699123a3b5c49c547ebabf1e062c78\transformed\drawerlayout-1.1.1\res
-com.example.streetcar.app-google-services-29 C:\Users\tdcs0\AndroidStudioProjects\StreetCar\app\build\generated\res\google-services\debug
-com.example.streetcar.app-pngs-30 C:\Users\tdcs0\AndroidStudioProjects\StreetCar\app\build\generated\res\pngs\debug
-com.example.streetcar.app-resValues-31 C:\Users\tdcs0\AndroidStudioProjects\StreetCar\app\build\generated\res\resValues\debug
-com.example.streetcar.app-rs-32 C:\Users\tdcs0\AndroidStudioProjects\StreetCar\app\build\generated\res\rs\debug
-com.example.streetcar.app-packageDebugResources-33 C:\Users\tdcs0\AndroidStudioProjects\StreetCar\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
-com.example.streetcar.app-packageDebugResources-34 C:\Users\tdcs0\AndroidStudioProjects\StreetCar\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
-com.example.streetcar.app-merged_res-35 C:\Users\tdcs0\AndroidStudioProjects\StreetCar\app\build\intermediates\merged_res\debug
-com.example.streetcar.app-debug-36 C:\Users\tdcs0\AndroidStudioProjects\StreetCar\app\src\debug\res
-com.example.streetcar.app-main-37 C:\Users\tdcs0\AndroidStudioProjects\StreetCar\app\src\main\res
+com.example.streetcar.app-constraintlayout-2.1.4-0 C:\Users\isabe\.gradle\caches\transforms-3\008bb01919eacaad75cee55b00cad0d4\transformed\constraintlayout-2.1.4\res
+com.example.streetcar.app-startup-runtime-1.1.1-1 C:\Users\isabe\.gradle\caches\transforms-3\014198dfbb4a3011994ec8db21a63566\transformed\startup-runtime-1.1.1\res
+com.example.streetcar.app-viewpager2-1.0.0-2 C:\Users\isabe\.gradle\caches\transforms-3\024b3f5af1923bfca4c5a1de67e3bfc6\transformed\viewpager2-1.0.0\res
+com.example.streetcar.app-activity-1.5.1-3 C:\Users\isabe\.gradle\caches\transforms-3\03edabb9f0d87568787dcea93645f1be\transformed\activity-1.5.1\res
+com.example.streetcar.app-emoji2-1.2.0-4 C:\Users\isabe\.gradle\caches\transforms-3\09e72a7a00482a7180d05ac481325792\transformed\emoji2-1.2.0\res
+com.example.streetcar.app-savedstate-1.2.0-5 C:\Users\isabe\.gradle\caches\transforms-3\0e1a2d2752ee053eebb4454ad9e46259\transformed\savedstate-1.2.0\res
+com.example.streetcar.app-core-1.5.0-6 C:\Users\isabe\.gradle\caches\transforms-3\0fc18612ea446508f1ddf5cc99fa8f51\transformed\core-1.5.0\res
+com.example.streetcar.app-core-1.8.0-7 C:\Users\isabe\.gradle\caches\transforms-3\10e0919222f9e94c80fe3d248a16b059\transformed\core-1.8.0\res
+com.example.streetcar.app-coordinatorlayout-1.1.0-8 C:\Users\isabe\.gradle\caches\transforms-3\12b19370df78f3fdc4f269a3e0b9ae3d\transformed\coordinatorlayout-1.1.0\res
+com.example.streetcar.app-browser-1.4.0-9 C:\Users\isabe\.gradle\caches\transforms-3\20bb3c03706d0120b1812fbd60d1a54a\transformed\browser-1.4.0\res
+com.example.streetcar.app-transition-1.2.0-10 C:\Users\isabe\.gradle\caches\transforms-3\24c25723556697de7fb7c87546dddd00\transformed\transition-1.2.0\res
+com.example.streetcar.app-appcompat-resources-1.5.1-11 C:\Users\isabe\.gradle\caches\transforms-3\4fadc8a6c1c6a2e35f7de56ce65a48d8\transformed\appcompat-resources-1.5.1\res
+com.example.streetcar.app-lifecycle-viewmodel-savedstate-2.5.1-12 C:\Users\isabe\.gradle\caches\transforms-3\5a3670396761f20753f4d7da6b4740ee\transformed\lifecycle-viewmodel-savedstate-2.5.1\res
+com.example.streetcar.app-firebase-common-20.2.0-13 C:\Users\isabe\.gradle\caches\transforms-3\6815efbfbf692d3016d55c159b047e5a\transformed\firebase-common-20.2.0\res
+com.example.streetcar.app-appcompat-1.5.1-14 C:\Users\isabe\.gradle\caches\transforms-3\7587ab50b737894555b8d05c94504219\transformed\appcompat-1.5.1\res
+com.example.streetcar.app-annotation-experimental-1.1.0-15 C:\Users\isabe\.gradle\caches\transforms-3\78c00a931992e83f7d259cc4b39dbe94\transformed\annotation-experimental-1.1.0\res
+com.example.streetcar.app-lifecycle-process-2.4.1-16 C:\Users\isabe\.gradle\caches\transforms-3\7f16dd1641fc2e683362bc61a2a4a413\transformed\lifecycle-process-2.4.1\res
+com.example.streetcar.app-recyclerview-1.1.0-17 C:\Users\isabe\.gradle\caches\transforms-3\8193879396ddc9bbe68686d4fd364311\transformed\recyclerview-1.1.0\res
+com.example.streetcar.app-play-services-basement-18.1.0-18 C:\Users\isabe\.gradle\caches\transforms-3\87427f83207bfca84103e66f2e973571\transformed\play-services-basement-18.1.0\res
+com.example.streetcar.app-play-services-base-18.0.1-19 C:\Users\isabe\.gradle\caches\transforms-3\9ac16106f6ef8e49d2e561fc6e384635\transformed\play-services-base-18.0.1\res
+com.example.streetcar.app-emoji2-views-helper-1.2.0-20 C:\Users\isabe\.gradle\caches\transforms-3\a39e35ec7a8462071320ece8d0608377\transformed\emoji2-views-helper-1.2.0\res
+com.example.streetcar.app-fragment-1.3.6-21 C:\Users\isabe\.gradle\caches\transforms-3\b0e48fdcca110c933cd1359c72494a30\transformed\fragment-1.3.6\res
+com.example.streetcar.app-lifecycle-runtime-2.5.1-22 C:\Users\isabe\.gradle\caches\transforms-3\b2cc313048f59b1e6f27ae8f423a52c8\transformed\lifecycle-runtime-2.5.1\res
+com.example.streetcar.app-material-1.7.0-23 C:\Users\isabe\.gradle\caches\transforms-3\c0118316588a814edfcf97a014d7d543\transformed\material-1.7.0\res
+com.example.streetcar.app-core-ktx-1.8.0-24 C:\Users\isabe\.gradle\caches\transforms-3\c6afd9d753b16671ff5439010b365d50\transformed\core-ktx-1.8.0\res
+com.example.streetcar.app-lifecycle-livedata-core-2.5.1-25 C:\Users\isabe\.gradle\caches\transforms-3\d7639b31095090897e233295d0ce0238\transformed\lifecycle-livedata-core-2.5.1\res
+com.example.streetcar.app-lifecycle-viewmodel-2.5.1-26 C:\Users\isabe\.gradle\caches\transforms-3\dbcac4723b4102f9ab48ce177e2bbfce\transformed\lifecycle-viewmodel-2.5.1\res
+com.example.streetcar.app-cardview-1.0.0-27 C:\Users\isabe\.gradle\caches\transforms-3\e40167b83188e06e0ff736546b5c3b9a\transformed\cardview-1.0.0\res
+com.example.streetcar.app-drawerlayout-1.1.1-28 C:\Users\isabe\.gradle\caches\transforms-3\f4699123a3b5c49c547ebabf1e062c78\transformed\drawerlayout-1.1.1\res
+com.example.streetcar.app-google-services-29 C:\Users\isabe\OneDrive\Documentos\fatec sp\5 semestre\lab ies\StreetCarApp\app\build\generated\res\google-services\debug
+com.example.streetcar.app-pngs-30 C:\Users\isabe\OneDrive\Documentos\fatec sp\5 semestre\lab ies\StreetCarApp\app\build\generated\res\pngs\debug
+com.example.streetcar.app-resValues-31 C:\Users\isabe\OneDrive\Documentos\fatec sp\5 semestre\lab ies\StreetCarApp\app\build\generated\res\resValues\debug
+com.example.streetcar.app-rs-32 C:\Users\isabe\OneDrive\Documentos\fatec sp\5 semestre\lab ies\StreetCarApp\app\build\generated\res\rs\debug
+com.example.streetcar.app-packageDebugResources-33 C:\Users\isabe\OneDrive\Documentos\fatec sp\5 semestre\lab ies\StreetCarApp\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.streetcar.app-packageDebugResources-34 C:\Users\isabe\OneDrive\Documentos\fatec sp\5 semestre\lab ies\StreetCarApp\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.streetcar.app-merged_res-35 C:\Users\isabe\OneDrive\Documentos\fatec sp\5 semestre\lab ies\StreetCarApp\app\build\intermediates\merged_res\debug
+com.example.streetcar.app-debug-36 C:\Users\isabe\OneDrive\Documentos\fatec sp\5 semestre\lab ies\StreetCarApp\app\src\debug\res
+com.example.streetcar.app-main-37 C:\Users\isabe\OneDrive\Documentos\fatec sp\5 semestre\lab ies\StreetCarApp\app\src\main\res

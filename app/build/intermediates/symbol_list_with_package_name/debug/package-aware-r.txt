@@ -2637,6 +2637,7 @@ drawable ic_people
 drawable ic_person
 drawable ic_phone
 drawable ic_po
+drawable ic_popup
 drawable ic_senha
 drawable ic_service
 drawable ic_settings
@@ -2844,7 +2845,6 @@ id btnCadastro
 id btnConfig
 id btnData
 id btnEmailCad
-id btnEsqueci
 id btnExit
 id btnHome
 id btnHora
@@ -3387,10 +3387,12 @@ layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_booking
 layout activity_confirm
+layout activity_home
 layout activity_login
 layout activity_main
 layout activity_profile
 layout activity_register
+layout activity_service
 layout activity_splash
 layout activity_view_booking
 layout browser_actions_context_menu_page
@@ -3475,6 +3477,7 @@ mipmap ic_launcher_car_foreground
 mipmap ic_launcher_foreground
 mipmap ic_launcher_round
 mipmap ic_launcher_street
+mipmap ic_popup
 plurals mtrl_badge_content_description
 raw firebase_common_keep
 string abc_action_bar_home_description
