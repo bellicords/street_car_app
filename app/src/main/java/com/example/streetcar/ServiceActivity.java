@@ -13,7 +13,6 @@ import androidx.recyclerview.widget.RecyclerView;
 public class ServiceActivity extends AppCompatActivity {
     RecyclerView recyclerView;
     ImageButton btnBackB;
-    TextView empty;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

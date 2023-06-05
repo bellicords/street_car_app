@@ -8,11 +8,11 @@
 
     <ImageButton
         android:id="@+id/btnBackB"
-        android:layout_width="58dp"
-        android:layout_height="52dp"
+        android:layout_width="55dp"
+        android:layout_height="50dp"
         android:layout_alignParentStart="true"
         android:layout_alignParentTop="true"
-        android:layout_marginTop="24dp"
+        android:layout_marginTop="22dp"
         android:backgroundTint="#00000000"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.045"
@@ -22,10 +22,10 @@
         tools:ignore="MissingConstraints,SpeakableTextPresentCheck"></ImageButton>
 
     <TextView
-        android:id="@+id/txtConsultAgend"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="88dp"
+        android:id="@+id/txtServiceTitle"
+        android:layout_width="416dp"
+        android:layout_height="46dp"
+        android:layout_marginTop="76dp"
         android:fontFamily="@font/josefin_sans_bold"
         android:gravity="center_horizontal"
         android:text="PERGUNTAS FREQUENTES"
@@ -34,7 +34,21 @@
         android:textStyle="bold"
         android:visibility="visible"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.8"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         tools:ignore="MissingConstraints" />
+
+    <ImageView
+        android:id="@+id/imageView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.494"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0"
+        app:srcCompat="@drawable/fueto2" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>

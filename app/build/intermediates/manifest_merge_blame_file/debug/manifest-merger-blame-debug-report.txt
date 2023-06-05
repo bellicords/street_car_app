@@ -6,13 +6,13 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="27"
-8-->C:\Users\isabe\OneDrive\Documentos\fatec sp\5 semestre\lab ies\StreetCarApp\app\src\main\AndroidManifest.xml
+8-->C:\Users\isabe\OneDrive\Documentos\GitHub\street_car_app\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="32" />
-9-->C:\Users\isabe\OneDrive\Documentos\fatec sp\5 semestre\lab ies\StreetCarApp\app\src\main\AndroidManifest.xml
+9-->C:\Users\isabe\OneDrive\Documentos\GitHub\street_car_app\app\src\main\AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.INTERNET" />
-11-->C:\Users\isabe\OneDrive\Documentos\fatec sp\5 semestre\lab ies\StreetCarApp\app\src\main\AndroidManifest.xml:6:5-67
-11-->C:\Users\isabe\OneDrive\Documentos\fatec sp\5 semestre\lab ies\StreetCarApp\app\src\main\AndroidManifest.xml:6:22-64
+11-->C:\Users\isabe\OneDrive\Documentos\GitHub\street_car_app\app\src\main\AndroidManifest.xml:6:5-67
+11-->C:\Users\isabe\OneDrive\Documentos\GitHub\street_car_app\app\src\main\AndroidManifest.xml:6:22-64
 12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 12-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\isabe\.gradle\caches\transforms-3\8dea5a90b09cd7030909fba58abf7ff8\transformed\firebase-auth-21.1.0\AndroidManifest.xml:24:5-79
 12-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\isabe\.gradle\caches\transforms-3\8dea5a90b09cd7030909fba58abf7ff8\transformed\firebase-auth-21.1.0\AndroidManifest.xml:24:22-76
@@ -34,78 +34,78 @@
 19    </queries>
 20
 21    <application
-21-->C:\Users\isabe\OneDrive\Documentos\fatec sp\5 semestre\lab ies\StreetCarApp\app\src\main\AndroidManifest.xml:8:5-36:19
+21-->C:\Users\isabe\OneDrive\Documentos\GitHub\street_car_app\app\src\main\AndroidManifest.xml:8:5-36:19
 22        android:allowBackup="true"
-22-->C:\Users\isabe\OneDrive\Documentos\fatec sp\5 semestre\lab ies\StreetCarApp\app\src\main\AndroidManifest.xml:9:9-35
+22-->C:\Users\isabe\OneDrive\Documentos\GitHub\street_car_app\app\src\main\AndroidManifest.xml:9:9-35
 23        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 23-->[androidx.core:core:1.8.0] C:\Users\isabe\.gradle\caches\transforms-3\10e0919222f9e94c80fe3d248a16b059\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
 24        android:debuggable="true"
 25        android:extractNativeLibs="false"
 26        android:icon="@mipmap/ic_launcher"
-26-->C:\Users\isabe\OneDrive\Documentos\fatec sp\5 semestre\lab ies\StreetCarApp\app\src\main\AndroidManifest.xml:10:9-43
+26-->C:\Users\isabe\OneDrive\Documentos\GitHub\street_car_app\app\src\main\AndroidManifest.xml:10:9-43
 27        android:label="@string/app_name"
-27-->C:\Users\isabe\OneDrive\Documentos\fatec sp\5 semestre\lab ies\StreetCarApp\app\src\main\AndroidManifest.xml:11:9-41
+27-->C:\Users\isabe\OneDrive\Documentos\GitHub\street_car_app\app\src\main\AndroidManifest.xml:11:9-41
 28        android:roundIcon="@mipmap/ic_launcher_round"
-28-->C:\Users\isabe\OneDrive\Documentos\fatec sp\5 semestre\lab ies\StreetCarApp\app\src\main\AndroidManifest.xml:12:9-54
+28-->C:\Users\isabe\OneDrive\Documentos\GitHub\street_car_app\app\src\main\AndroidManifest.xml:12:9-54
 29        android:supportsRtl="true"
-29-->C:\Users\isabe\OneDrive\Documentos\fatec sp\5 semestre\lab ies\StreetCarApp\app\src\main\AndroidManifest.xml:13:9-35
+29-->C:\Users\isabe\OneDrive\Documentos\GitHub\street_car_app\app\src\main\AndroidManifest.xml:13:9-35
 30        android:testOnly="true"
 31        android:theme="@style/Theme.StreetCar" >
-31-->C:\Users\isabe\OneDrive\Documentos\fatec sp\5 semestre\lab ies\StreetCarApp\app\src\main\AndroidManifest.xml:14:9-47
+31-->C:\Users\isabe\OneDrive\Documentos\GitHub\street_car_app\app\src\main\AndroidManifest.xml:14:9-47
 32        <activity
-32-->C:\Users\isabe\OneDrive\Documentos\fatec sp\5 semestre\lab ies\StreetCarApp\app\src\main\AndroidManifest.xml:15:9-22:20
+32-->C:\Users\isabe\OneDrive\Documentos\GitHub\street_car_app\app\src\main\AndroidManifest.xml:15:9-22:20
 33            android:name="com.example.streetcar.SplashActivity"
-33-->C:\Users\isabe\OneDrive\Documentos\fatec sp\5 semestre\lab ies\StreetCarApp\app\src\main\AndroidManifest.xml:16:13-43
+33-->C:\Users\isabe\OneDrive\Documentos\GitHub\street_car_app\app\src\main\AndroidManifest.xml:16:13-43
 34            android:exported="true" >
-34-->C:\Users\isabe\OneDrive\Documentos\fatec sp\5 semestre\lab ies\StreetCarApp\app\src\main\AndroidManifest.xml:17:13-36
+34-->C:\Users\isabe\OneDrive\Documentos\GitHub\street_car_app\app\src\main\AndroidManifest.xml:17:13-36
 35            <intent-filter>
-35-->C:\Users\isabe\OneDrive\Documentos\fatec sp\5 semestre\lab ies\StreetCarApp\app\src\main\AndroidManifest.xml:18:13-21:29
+35-->C:\Users\isabe\OneDrive\Documentos\GitHub\street_car_app\app\src\main\AndroidManifest.xml:18:13-21:29
 36                <action android:name="android.intent.action.MAIN" />
-36-->C:\Users\isabe\OneDrive\Documentos\fatec sp\5 semestre\lab ies\StreetCarApp\app\src\main\AndroidManifest.xml:19:17-69
-36-->C:\Users\isabe\OneDrive\Documentos\fatec sp\5 semestre\lab ies\StreetCarApp\app\src\main\AndroidManifest.xml:19:25-66
+36-->C:\Users\isabe\OneDrive\Documentos\GitHub\street_car_app\app\src\main\AndroidManifest.xml:19:17-69
+36-->C:\Users\isabe\OneDrive\Documentos\GitHub\street_car_app\app\src\main\AndroidManifest.xml:19:25-66
 37
 38                <category android:name="android.intent.category.LAUNCHER" />
-38-->C:\Users\isabe\OneDrive\Documentos\fatec sp\5 semestre\lab ies\StreetCarApp\app\src\main\AndroidManifest.xml:20:17-77
-38-->C:\Users\isabe\OneDrive\Documentos\fatec sp\5 semestre\lab ies\StreetCarApp\app\src\main\AndroidManifest.xml:20:27-74
+38-->C:\Users\isabe\OneDrive\Documentos\GitHub\street_car_app\app\src\main\AndroidManifest.xml:20:17-77
+38-->C:\Users\isabe\OneDrive\Documentos\GitHub\street_car_app\app\src\main\AndroidManifest.xml:20:27-74
 39            </intent-filter>
 40        </activity>
 41        <activity android:name="com.example.streetcar.SenhaActivity" />
-41-->C:\Users\isabe\OneDrive\Documentos\fatec sp\5 semestre\lab ies\StreetCarApp\app\src\main\AndroidManifest.xml:23:9-51
-41-->C:\Users\isabe\OneDrive\Documentos\fatec sp\5 semestre\lab ies\StreetCarApp\app\src\main\AndroidManifest.xml:23:19-48
+41-->C:\Users\isabe\OneDrive\Documentos\GitHub\street_car_app\app\src\main\AndroidManifest.xml:23:9-51
+41-->C:\Users\isabe\OneDrive\Documentos\GitHub\street_car_app\app\src\main\AndroidManifest.xml:23:19-48
 42        <activity android:name="com.example.streetcar.MainActivity" />
-42-->C:\Users\isabe\OneDrive\Documentos\fatec sp\5 semestre\lab ies\StreetCarApp\app\src\main\AndroidManifest.xml:24:9-49
-42-->C:\Users\isabe\OneDrive\Documentos\fatec sp\5 semestre\lab ies\StreetCarApp\app\src\main\AndroidManifest.xml:24:19-47
+42-->C:\Users\isabe\OneDrive\Documentos\GitHub\street_car_app\app\src\main\AndroidManifest.xml:24:9-49
+42-->C:\Users\isabe\OneDrive\Documentos\GitHub\street_car_app\app\src\main\AndroidManifest.xml:24:19-47
 43        <activity android:name="com.example.streetcar.HomeActivity" />
-43-->C:\Users\isabe\OneDrive\Documentos\fatec sp\5 semestre\lab ies\StreetCarApp\app\src\main\AndroidManifest.xml:25:9-49
-43-->C:\Users\isabe\OneDrive\Documentos\fatec sp\5 semestre\lab ies\StreetCarApp\app\src\main\AndroidManifest.xml:25:19-47
+43-->C:\Users\isabe\OneDrive\Documentos\GitHub\street_car_app\app\src\main\AndroidManifest.xml:25:9-49
+43-->C:\Users\isabe\OneDrive\Documentos\GitHub\street_car_app\app\src\main\AndroidManifest.xml:25:19-47
 44        <activity android:name="com.example.streetcar.ServiceActivity" />
-44-->C:\Users\isabe\OneDrive\Documentos\fatec sp\5 semestre\lab ies\StreetCarApp\app\src\main\AndroidManifest.xml:26:9-52
-44-->C:\Users\isabe\OneDrive\Documentos\fatec sp\5 semestre\lab ies\StreetCarApp\app\src\main\AndroidManifest.xml:26:19-50
+44-->C:\Users\isabe\OneDrive\Documentos\GitHub\street_car_app\app\src\main\AndroidManifest.xml:26:9-52
+44-->C:\Users\isabe\OneDrive\Documentos\GitHub\street_car_app\app\src\main\AndroidManifest.xml:26:19-50
 45        <activity android:name="com.example.streetcar.LoginActivity" />
-45-->C:\Users\isabe\OneDrive\Documentos\fatec sp\5 semestre\lab ies\StreetCarApp\app\src\main\AndroidManifest.xml:27:9-50
-45-->C:\Users\isabe\OneDrive\Documentos\fatec sp\5 semestre\lab ies\StreetCarApp\app\src\main\AndroidManifest.xml:27:19-48
+45-->C:\Users\isabe\OneDrive\Documentos\GitHub\street_car_app\app\src\main\AndroidManifest.xml:27:9-50
+45-->C:\Users\isabe\OneDrive\Documentos\GitHub\street_car_app\app\src\main\AndroidManifest.xml:27:19-48
 46        <activity android:name="com.example.streetcar.ProfileActivity" />
-46-->C:\Users\isabe\OneDrive\Documentos\fatec sp\5 semestre\lab ies\StreetCarApp\app\src\main\AndroidManifest.xml:28:9-52
-46-->C:\Users\isabe\OneDrive\Documentos\fatec sp\5 semestre\lab ies\StreetCarApp\app\src\main\AndroidManifest.xml:28:19-50
+46-->C:\Users\isabe\OneDrive\Documentos\GitHub\street_car_app\app\src\main\AndroidManifest.xml:28:9-52
+46-->C:\Users\isabe\OneDrive\Documentos\GitHub\street_car_app\app\src\main\AndroidManifest.xml:28:19-50
 47        <activity android:name="com.example.streetcar.RegisterActivity" />
-47-->C:\Users\isabe\OneDrive\Documentos\fatec sp\5 semestre\lab ies\StreetCarApp\app\src\main\AndroidManifest.xml:29:9-53
-47-->C:\Users\isabe\OneDrive\Documentos\fatec sp\5 semestre\lab ies\StreetCarApp\app\src\main\AndroidManifest.xml:29:19-51
+47-->C:\Users\isabe\OneDrive\Documentos\GitHub\street_car_app\app\src\main\AndroidManifest.xml:29:9-53
+47-->C:\Users\isabe\OneDrive\Documentos\GitHub\street_car_app\app\src\main\AndroidManifest.xml:29:19-51
 48        <activity android:name="com.example.streetcar.ConfirmActivity" />
-48-->C:\Users\isabe\OneDrive\Documentos\fatec sp\5 semestre\lab ies\StreetCarApp\app\src\main\AndroidManifest.xml:30:9-52
-48-->C:\Users\isabe\OneDrive\Documentos\fatec sp\5 semestre\lab ies\StreetCarApp\app\src\main\AndroidManifest.xml:30:19-50
+48-->C:\Users\isabe\OneDrive\Documentos\GitHub\street_car_app\app\src\main\AndroidManifest.xml:30:9-52
+48-->C:\Users\isabe\OneDrive\Documentos\GitHub\street_car_app\app\src\main\AndroidManifest.xml:30:19-50
 49        <activity android:name="com.example.streetcar.BookingActivity" />
-49-->C:\Users\isabe\OneDrive\Documentos\fatec sp\5 semestre\lab ies\StreetCarApp\app\src\main\AndroidManifest.xml:31:9-52
-49-->C:\Users\isabe\OneDrive\Documentos\fatec sp\5 semestre\lab ies\StreetCarApp\app\src\main\AndroidManifest.xml:31:19-50
+49-->C:\Users\isabe\OneDrive\Documentos\GitHub\street_car_app\app\src\main\AndroidManifest.xml:31:9-52
+49-->C:\Users\isabe\OneDrive\Documentos\GitHub\street_car_app\app\src\main\AndroidManifest.xml:31:19-50
 50        <activity android:name="com.example.streetcar.ViewBookingActivity" />
-50-->C:\Users\isabe\OneDrive\Documentos\fatec sp\5 semestre\lab ies\StreetCarApp\app\src\main\AndroidManifest.xml:32:9-56
-50-->C:\Users\isabe\OneDrive\Documentos\fatec sp\5 semestre\lab ies\StreetCarApp\app\src\main\AndroidManifest.xml:32:19-54
+50-->C:\Users\isabe\OneDrive\Documentos\GitHub\street_car_app\app\src\main\AndroidManifest.xml:32:9-56
+50-->C:\Users\isabe\OneDrive\Documentos\GitHub\street_car_app\app\src\main\AndroidManifest.xml:32:19-54
 51
 52        <meta-data
-52-->C:\Users\isabe\OneDrive\Documentos\fatec sp\5 semestre\lab ies\StreetCarApp\app\src\main\AndroidManifest.xml:33:9-35:57
+52-->C:\Users\isabe\OneDrive\Documentos\GitHub\street_car_app\app\src\main\AndroidManifest.xml:33:9-35:57
 53            android:name="preloaded_fonts"
-53-->C:\Users\isabe\OneDrive\Documentos\fatec sp\5 semestre\lab ies\StreetCarApp\app\src\main\AndroidManifest.xml:34:13-43
+53-->C:\Users\isabe\OneDrive\Documentos\GitHub\street_car_app\app\src\main\AndroidManifest.xml:34:13-43
 54            android:resource="@array/preloaded_fonts" />
-54-->C:\Users\isabe\OneDrive\Documentos\fatec sp\5 semestre\lab ies\StreetCarApp\app\src\main\AndroidManifest.xml:35:13-54
+54-->C:\Users\isabe\OneDrive\Documentos\GitHub\street_car_app\app\src\main\AndroidManifest.xml:35:13-54
 55
 56        <activity
 56-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\isabe\.gradle\caches\transforms-3\8dea5a90b09cd7030909fba58abf7ff8\transformed\firebase-auth-21.1.0\AndroidManifest.xml:27:9-44:20
@@ -269,8 +269,8 @@
 140-->[androidx.test:core:1.5.0] C:\Users\isabe\.gradle\caches\transforms-3\0fc18612ea446508f1ddf5cc99fa8f51\transformed\core-1.5.0\AndroidManifest.xml:31:13-33:29
 140-->[androidx.test:core:1.5.0] C:\Users\isabe\.gradle\caches\transforms-3\0fc18612ea446508f1ddf5cc99fa8f51\transformed\core-1.5.0\AndroidManifest.xml:31:28-51
 141                <category android:name="android.intent.category.LAUNCHER" />
-141-->C:\Users\isabe\OneDrive\Documentos\fatec sp\5 semestre\lab ies\StreetCarApp\app\src\main\AndroidManifest.xml:20:17-77
-141-->C:\Users\isabe\OneDrive\Documentos\fatec sp\5 semestre\lab ies\StreetCarApp\app\src\main\AndroidManifest.xml:20:27-74
+141-->C:\Users\isabe\OneDrive\Documentos\GitHub\street_car_app\app\src\main\AndroidManifest.xml:20:17-77
+141-->C:\Users\isabe\OneDrive\Documentos\GitHub\street_car_app\app\src\main\AndroidManifest.xml:20:27-74
 142            </intent-filter>
 143        </activity>
 144        <activity
@@ -285,8 +285,8 @@
 148-->[androidx.test:core:1.5.0] C:\Users\isabe\.gradle\caches\transforms-3\0fc18612ea446508f1ddf5cc99fa8f51\transformed\core-1.5.0\AndroidManifest.xml:31:13-33:29
 148-->[androidx.test:core:1.5.0] C:\Users\isabe\.gradle\caches\transforms-3\0fc18612ea446508f1ddf5cc99fa8f51\transformed\core-1.5.0\AndroidManifest.xml:31:28-51
 149                <category android:name="android.intent.category.LAUNCHER" />
-149-->C:\Users\isabe\OneDrive\Documentos\fatec sp\5 semestre\lab ies\StreetCarApp\app\src\main\AndroidManifest.xml:20:17-77
-149-->C:\Users\isabe\OneDrive\Documentos\fatec sp\5 semestre\lab ies\StreetCarApp\app\src\main\AndroidManifest.xml:20:27-74
+149-->C:\Users\isabe\OneDrive\Documentos\GitHub\street_car_app\app\src\main\AndroidManifest.xml:20:17-77
+149-->C:\Users\isabe\OneDrive\Documentos\GitHub\street_car_app\app\src\main\AndroidManifest.xml:20:27-74
 150            </intent-filter>
 151        </activity>
 152        <activity
@@ -301,8 +301,8 @@
 156-->[androidx.test:core:1.5.0] C:\Users\isabe\.gradle\caches\transforms-3\0fc18612ea446508f1ddf5cc99fa8f51\transformed\core-1.5.0\AndroidManifest.xml:31:13-33:29
 156-->[androidx.test:core:1.5.0] C:\Users\isabe\.gradle\caches\transforms-3\0fc18612ea446508f1ddf5cc99fa8f51\transformed\core-1.5.0\AndroidManifest.xml:31:28-51
 157                <category android:name="android.intent.category.LAUNCHER" />
-157-->C:\Users\isabe\OneDrive\Documentos\fatec sp\5 semestre\lab ies\StreetCarApp\app\src\main\AndroidManifest.xml:20:17-77
-157-->C:\Users\isabe\OneDrive\Documentos\fatec sp\5 semestre\lab ies\StreetCarApp\app\src\main\AndroidManifest.xml:20:27-74
+157-->C:\Users\isabe\OneDrive\Documentos\GitHub\street_car_app\app\src\main\AndroidManifest.xml:20:17-77
+157-->C:\Users\isabe\OneDrive\Documentos\GitHub\street_car_app\app\src\main\AndroidManifest.xml:20:27-74
 158            </intent-filter>
 159        </activity>
 160    </application>

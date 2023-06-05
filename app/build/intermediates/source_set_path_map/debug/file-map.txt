@@ -27,12 +27,12 @@ com.example.streetcar.app-lifecycle-livedata-core-2.5.1-25 C:\Users\isabe\.gradl
 com.example.streetcar.app-lifecycle-viewmodel-2.5.1-26 C:\Users\isabe\.gradle\caches\transforms-3\dbcac4723b4102f9ab48ce177e2bbfce\transformed\lifecycle-viewmodel-2.5.1\res
 com.example.streetcar.app-cardview-1.0.0-27 C:\Users\isabe\.gradle\caches\transforms-3\e40167b83188e06e0ff736546b5c3b9a\transformed\cardview-1.0.0\res
 com.example.streetcar.app-drawerlayout-1.1.1-28 C:\Users\isabe\.gradle\caches\transforms-3\f4699123a3b5c49c547ebabf1e062c78\transformed\drawerlayout-1.1.1\res
-com.example.streetcar.app-google-services-29 C:\Users\isabe\OneDrive\Documentos\fatec sp\5 semestre\lab ies\StreetCarApp\app\build\generated\res\google-services\debug
-com.example.streetcar.app-pngs-30 C:\Users\isabe\OneDrive\Documentos\fatec sp\5 semestre\lab ies\StreetCarApp\app\build\generated\res\pngs\debug
-com.example.streetcar.app-resValues-31 C:\Users\isabe\OneDrive\Documentos\fatec sp\5 semestre\lab ies\StreetCarApp\app\build\generated\res\resValues\debug
-com.example.streetcar.app-rs-32 C:\Users\isabe\OneDrive\Documentos\fatec sp\5 semestre\lab ies\StreetCarApp\app\build\generated\res\rs\debug
-com.example.streetcar.app-packageDebugResources-33 C:\Users\isabe\OneDrive\Documentos\fatec sp\5 semestre\lab ies\StreetCarApp\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
-com.example.streetcar.app-packageDebugResources-34 C:\Users\isabe\OneDrive\Documentos\fatec sp\5 semestre\lab ies\StreetCarApp\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
-com.example.streetcar.app-merged_res-35 C:\Users\isabe\OneDrive\Documentos\fatec sp\5 semestre\lab ies\StreetCarApp\app\build\intermediates\merged_res\debug
-com.example.streetcar.app-debug-36 C:\Users\isabe\OneDrive\Documentos\fatec sp\5 semestre\lab ies\StreetCarApp\app\src\debug\res
-com.example.streetcar.app-main-37 C:\Users\isabe\OneDrive\Documentos\fatec sp\5 semestre\lab ies\StreetCarApp\app\src\main\res
+com.example.streetcar.app-google-services-29 C:\Users\isabe\OneDrive\Documentos\GitHub\street_car_app\app\build\generated\res\google-services\debug
+com.example.streetcar.app-pngs-30 C:\Users\isabe\OneDrive\Documentos\GitHub\street_car_app\app\build\generated\res\pngs\debug
+com.example.streetcar.app-resValues-31 C:\Users\isabe\OneDrive\Documentos\GitHub\street_car_app\app\build\generated\res\resValues\debug
+com.example.streetcar.app-rs-32 C:\Users\isabe\OneDrive\Documentos\GitHub\street_car_app\app\build\generated\res\rs\debug
+com.example.streetcar.app-packageDebugResources-33 C:\Users\isabe\OneDrive\Documentos\GitHub\street_car_app\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.streetcar.app-packageDebugResources-34 C:\Users\isabe\OneDrive\Documentos\GitHub\street_car_app\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.streetcar.app-merged_res-35 C:\Users\isabe\OneDrive\Documentos\GitHub\street_car_app\app\build\intermediates\merged_res\debug
+com.example.streetcar.app-debug-36 C:\Users\isabe\OneDrive\Documentos\GitHub\street_car_app\app\src\debug\res
+com.example.streetcar.app-main-37 C:\Users\isabe\OneDrive\Documentos\GitHub\street_car_app\app\src\main\res
